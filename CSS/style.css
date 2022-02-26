@@ -1,0 +1,465 @@
+
+.ppr{
+    color: gray;
+    margin-left: 0px;
+
+}
+
+
+input{
+    
+    height: 35px;
+    font-weight: bold;
+
+}
+
+
+button{
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+    height: 41px;
+    width: 96px;
+    border-radius: 0 10px 10px 0;
+
+}
+
+.fa1{
+    width: 50px;
+    height: 41px;
+    border-radius: 10px 0 0 10px;
+    background-color: gray;
+    
+}
+
+i{
+    
+    margin-left: 16px;
+    margin-top: 16px;
+   
+}
+
+.rech{
+    display: flex;
+}
+
+.rech1{
+    margin-top: 0px;
+    
+    margin-left: 0px;
+
+
+}
+
+form{
+    display: flex;
+}
+
+nav{
+    
+    margin-left: 286px;
+
+}
+
+nav,li{
+    float: right;
+    display: flex;
+
+}
+li a{
+    display: block;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    border-top: blue solid 3px;
+    text-decoration: none;
+    color: blue;
+
+    }
+
+.hea{
+    display: flex;
+}
+
+
+.dlog{ /*la première section*/
+    display: flex;
+}
+
+.sec1{
+    display: flex;
+}
+
+.ppr1{
+    
+    margin-left: 0px;
+
+}
+
+.sec1 p{
+    font-weight: bold;
+}
+
+.div1{      /*les premiers logo*/
+    border-radius: 50px;
+    background-color: rgba(0, 0, 255, 0.404);
+    width: 50px;
+    height: 50px;
+
+}
+
+.divp1{
+    border-radius: 50px;
+    width: 181px;
+    border: 3px gray solid;
+
+
+}
+
+.divp1,p{
+    margin-left: 20px;
+}
+
+.flex{
+    display: flex;
+}
+
+.divp1 i{
+    color: blue;
+}
+
+
+.div2{
+    border-radius: 50px;
+    background-color: rgba(0, 0, 255, 0.404);
+    width: 50px;
+    height: 50px;
+
+}
+
+.divp2{
+    border-radius: 50px;
+    
+    width: 140px;
+    border: gray solid;
+
+
+}
+
+.divp2,p{
+    margin-left: 20px;
+}
+
+.flex1{
+    display: flex;
+}
+
+.divp2 i{
+    color: blue;
+}
+
+
+.div3{
+    border-radius: 50px;
+    background-color: rgba(0, 0, 255, 0.404);
+    width: 50px;
+    height: 50px;
+
+}
+
+.divp3{
+    border-radius: 50px;
+    
+    width: 206px;
+    border: gray solid;
+
+
+}
+
+.divp3,p{
+    margin-left: 20px;
+}
+
+.flex2{
+    display: flex;
+}
+
+.divp3 i{
+    color: blue;
+}
+
+.apresec{
+    
+    
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+    border: gray solid;
+
+}
+
+.apresec i{
+    margin-top: 5px;
+    margin-left: 13px;
+    color: blue;
+}
+
+#u1{
+    display: flex;
+    
+    margin-top: 21px;
+
+}
+
+#u1 p{
+    color: gray;
+    margin-top: 11px;
+    margin-left: 14px;
+
+}
+
+.sec2{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    width: 759px;
+    background-color: rgba(128, 128, 128, 0.205);
+}
+
+.hsec2{
+    margin-left: 20px;
+}
+
+.psec2{
+    font-weight: bold;
+}
+
+.sec2 img{
+    
+    width: 226px;
+    height: 129.219;
+    border-radius: 20px 20px 0 0;
+
+}
+
+.tour{ /*hebergement*/
+    width: 227px;
+    
+    margin-left: 20px;
+
+    height: 242.828;
+
+    background-color: white;
+    border-radius: 20px; ;
+}
+
+.tour h1{
+    font-size: 16px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+.tour p{
+    
+    margin-top: 6px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+
+}
+
+.tour1{
+    width: 227px;
+
+}
+ .tour i{
+        
+    padding-bottom: 14px;
+    margin-left: 10px;
+    color: blue;
+
+ }
+
+ #startgray1,#startgray2{
+     color: gray;
+ }
+
+ .start{
+     display: flex;
+ }
+
+.rang{
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.img2,.img3{
+    border-radius: 20px 20px 0 0;
+    height: 150px;
+}
+
+aside{
+    background-color: rgba(128, 128, 128, 0.205);
+    padding-bottom: 20px;
+    border-radius: 20px;
+    width: 423px;
+    margin-left: 66px;
+    
+
+}
+.tour2{
+    margin-left: 20px;
+    margin-bottom: 40px;
+    display: flex;
+    width: 380px;
+    height: 125px;
+    background-color: white;
+    border-radius: 20px;
+    
+
+}
+
+.tour2 img{
+    border-radius: 20px 0 0 20px;
+    width: 157px;
+    height: 125px;
+
+}
+
+.tour3{
+    
+    border-radius: 20px 0 0 20px;
+    width: 158px;
+    height: 127px;
+
+}
+
+.tour2 h1{
+    
+    margin-left: 10px;
+    font-size: 18px;
+    margin-bottom: 0px;
+
+}
+
+.tour2 p{
+    
+    margin-left: 10px;
+    margin-top: 0px;
+
+}
+
+.tour2 i{
+    
+    margin-top: 14px;
+    
+    padding-bottom: 14px;
+    margin-left: 10px;
+    color: blue;
+
+ }
+
+#haside{
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+
+
+ }
+
+#daside{
+     display: flex;
+ }
+
+ #graph{
+     
+    margin-top: 26px;
+    margin-left: 133px;
+
+ }
+
+ .box{
+     display: flex;
+ }
+
+
+ .sec3 img{
+     
+    width: 230px;
+    border-radius: 20px 20px 0 0;
+ }
+
+ .sec3 p{
+    font-weight: bold;
+    height: 27px;
+ }
+
+ .sec3imag{
+    height: 300.328px;
+ }
+
+ .dersec{
+    width: 230px;
+    border-radius: 20px;
+    box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.158);
+    margin-right: 100px;
+ }
+
+ .dersec1{
+    width: 230px;
+    height: 300.328px;
+    border-radius: 20px 20px 0 0;
+ }
+
+ .sec3imag1{
+    height: 145.594px;
+ }
+
+ .dersec2{
+    width: 230px;
+    height: 145.594px;
+    border-radius: 20px 20px 0 0;
+ }
+
+.sec3imag2{
+    height: 100.328px;
+}
+
+.dersec3{
+    width: 230px;
+    height: 100.328px;
+    border-radius: 20px 20px 0 0;
+}
+
+.sec3{
+    display: flex;
+}
+
+footer{
+    background-color: rgba(128, 128, 128, 0.205);
+    display: flex;
+    margin-top: 20px;
+}
+
+footer div{
+    
+    margin-right: 200px;
+
+}
+
+footer h1{
+    font-size: 16px;
+}
+
+footer p{
+    color: gray;
+}
